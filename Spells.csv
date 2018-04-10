@@ -1,0 +1,21 @@
+DMG,Sectumsempra,150,300,5
+DMG,Reducto,100,100,2
+DMG,Piertotum Locomotor,400,200,1
+DMG,Oppugno,50,100,2
+DMG,Incendio,150,250,4
+DMG,Expulso,200,300,5
+DMG,Bombarda,300,350,3
+DMG,Avada Kedavra,500,650,10
+DMG,Crucio,400,500,6
+DMG,Igni,300,300,2
+DMG,Kamehameha,200,400,7
+HEL,Cheering Charm,50,100,2
+HEL,Expecto Patronum,150,550,8
+HEL,Ferula,200,200,4
+HEL,Protego Horribilis,300,100,1
+HEL,Rennervate,100,200,3
+HEL,Quen,50,50,1
+REL,Accio,100,1,1
+REL,Imperio,400,10,10
+REL,Wingardium Leviosa,300,5,5
+REL,Axii,200,3,3
